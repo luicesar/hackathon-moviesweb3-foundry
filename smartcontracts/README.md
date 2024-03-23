@@ -26,6 +26,8 @@ $ forge build
 
 ```shell
 $ forge test
+$ forge test --match-contract ETHMoviesWeb3Test
+$ forge test --match-contract ETHMoviesWeb3ERC721Test
 ```
 
 ### Format
